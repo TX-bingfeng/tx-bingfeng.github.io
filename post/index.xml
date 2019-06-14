@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on TX_hugo</title>
+    <link>https://tx-bingfeng.github.io/post/</link>
+    <description>Recent content in Posts on TX_hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All rights reserved - 2019</copyright>
+    <lastBuildDate>Fri, 14 Jun 2019 08:05:23 +0800</lastBuildDate>
+    
+	<atom:link href="https://tx-bingfeng.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>个人简历</title>
+      <link>https://tx-bingfeng.github.io/post/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86/</link>
+      <pubDate>Fri, 14 Jun 2019 08:05:23 +0800</pubDate>
+      
+      <guid>https://tx-bingfeng.github.io/post/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86/</guid>
+      <description> 个人简历 https://tx-bingfeng.github.io/ | 出生年:1997 | 性别:男 
+所学技能  java
+掌握：Spring boot、Spring cloud、SpringMvc、Mybatis、Nginx、消息中间件：RabbitMQ
+ date base
+掌握：Mysql、Redis
+ Node + vue
+一般
+ Python
+了解
+ 小程序
+了解
+  
+项目经历  等待中 &amp;nbsp; ~(￣▽￣)~* 
+           
+教育经历 江西工程职业学院_信息工程系_软件技术 2016-9~2019-7 </description>
+    </item>
+    
+    <item>
+      <title>随笔</title>
+      <link>https://tx-bingfeng.github.io/post/suibian/</link>
+      <pubDate>Wed, 05 Jun 2019 08:56:02 +0800</pubDate>
+      
+      <guid>https://tx-bingfeng.github.io/post/suibian/</guid>
+      <description>生活 &amp;amp; 博客文章 QQ：3300583552 不知道写什么啊！   </description>
+    </item>
+    
+    <item>
+      <title>演示文章</title>
+      <link>https://tx-bingfeng.github.io/post/blog/</link>
+      <pubDate>Mon, 03 Jun 2019 21:11:52 +0800</pubDate>
+      
+      <guid>https://tx-bingfeng.github.io/post/blog/</guid>
+      <description>Java &amp;amp; 文章 Vue.js is an MIT-licensed open source project. It&amp;rsquo;s an independent project with its ongoing development made possible entirely thanks to the support by these awesome backers. If you&amp;rsquo;d like to join them, please consider:
+ Become a backer or sponsor on Patreon. Become a backer or sponsor on OpenCollective. One-time donation via PayPal or crypto-currencies.  What&amp;rsquo;s the difference between Patreon and OpenCollective? Funds donated via Patreon go directly to support Evan You&amp;rsquo;s full-time work on Vue.</description>
+    </item>
+    
+  </channel>
+</rss>
